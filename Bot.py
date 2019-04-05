@@ -14,4 +14,4 @@ class MyClient(discord.Client):
             await message.channel.send("@"+str(message.author)+" https://giphy.com/gifs/camera-kickstarter-possibilities-91fEJqgdsnu4E")
 
 client = MyClient()
-client.run('NTYzNTIyOTg5NDYzOTYxNjAx.XKajuQ.j7ItSXPgHjxFPOYGoiOF7XRllKQ')
+client.run('NTYzNTIyOTg5NDYzOTYxNjAx.XKbLCw.dNgidaej0CCPnDbSEQ7JnHkkF4I')
